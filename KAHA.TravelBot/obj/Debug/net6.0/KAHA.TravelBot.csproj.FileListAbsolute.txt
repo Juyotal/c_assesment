@@ -1,0 +1,17 @@
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.csproj.AssemblyReference.cache
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.AssemblyInfoInputs.cache
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.AssemblyInfo.cs
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.csproj.CoreCompileInputs.cache
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/KAHA.TravelBot
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/KAHA.TravelBot.deps.json
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/KAHA.TravelBot.runtimeconfig.json
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/KAHA.TravelBot.dll
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/KAHA.TravelBot.pdb
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.csproj.CopyComplete
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.dll
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/refint/KAHA.TravelBot.dll
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.pdb
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/KAHA.TravelBot.genruntimeconfig.cache
+/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/obj/Debug/net6.0/ref/KAHA.TravelBot.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZ3RpmA797I0KDGT2ytr5XbcIs35VokuQPea4LWkI2hXeD89LoiKd/lNs6v/YRh5ZWygdpMJxwFTX48O3ZrFtg==",
+  "success": true,
+  "projectFilePath": "/Users/madaocesar/Downloads/insanity/Kaha_TravelBot_Assignment_v1/KAHA.TravelBot/KAHA.TravelBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/madaocesar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
